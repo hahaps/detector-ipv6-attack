@@ -25,6 +25,10 @@ IPv6攻击检测工具
 2. 安装tcpdump工具 `sudo apt-get install tcpdump`
 3. 下载ipv6-attack-detector并解压.
 
+### CentOS7环境
+1. 安装Scapy依赖：`sudo yum install -y python2-scapy`
+2. 安装tcpdump工具 `sudo yum install -y tcpdump`
+3. 下载ipv6-attack-detector并解压.
 
 ## 使用
 1. 进入 6Guard 目录.
